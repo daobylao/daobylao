@@ -1,5 +1,17 @@
 # Dao by Lao
 
+**Ancient wisdom. Feel-good music.**
+
+Dao by Lao explores all 81 chapters of the Dao De Jing through 162 songs, six albums and two musical flows.
+
+[Listen at daobylao.com](https://daobylao.com/) · [Explore all six albums](https://daobylao.com/music/)
+
+Created and produced by Michael Golubev. Music and vocals are AI-generated; the writing and explanations are AI-assisted contemporary interpretations of the Dao De Jing.
+
+**Press play. Find your flow.**
+
+## Studio experiments
+
 I build and experiment with practical AI tools, workflow automation, and interactive web experiences.
 
 This is a home for selected project notes, current interests, and earlier experiments.
